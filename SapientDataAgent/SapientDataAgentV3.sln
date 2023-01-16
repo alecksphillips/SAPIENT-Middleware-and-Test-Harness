@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29411.108
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SapientDataAgent", "SapientDataAgentV3\SapientDataAgent.csproj", "{865D13B1-5CA3-470A-B5D6-89351CCA56EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SapientServices", "..\..\Inter Process Communications\SapientComms\SapientServicesV3\SapientServices.csproj", "{9D6BD18A-2ABB-4EF8-9E54-CC11A9B78D6E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SapientServices", "..\SapientServices\SapientServices.csproj", "{9D6BD18A-2ABB-4EF8-9E54-CC11A9B78D6E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SapientDatabase", "..\SapientDatabase\SapientDatabase.csproj", "{F6812F94-A231-4B1C-BB27-2E10402F593B}"
 EndProject

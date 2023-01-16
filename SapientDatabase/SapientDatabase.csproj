@@ -79,7 +79,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Inter Process Communications\SapientComms\SapientServicesV3\SapientServices.csproj">
+    <ProjectReference Include="..\SapientServices\SapientServices.csproj">
       <Project>{9d6bd18a-2abb-4ef8-9e54-cc11a9b78d6e}</Project>
       <Name>SapientServices</Name>
     </ProjectReference>
